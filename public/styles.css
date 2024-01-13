@@ -131,4 +131,9 @@ input[type="submit"] {
     color: white; /* Color del texto de la primera fila */
 }
 
+.accordion-button, .accordion-button:focus{
+    background-color: #007872;
+    color: white;
+
+}
 
